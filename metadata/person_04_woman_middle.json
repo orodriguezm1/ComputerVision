@@ -1,0 +1,94 @@
+{
+  "file_name": "person_04_woman_middle",
+  "raw_image": "images/raw/person_04_woman_middle.png",
+  "bbox_xyxy": {
+    "x1": 201,
+    "y1": 196,
+    "x2": 886,
+    "y2": 1023
+  },
+  "pitch_yaw_roll_degrees": {
+    "pitch": -1.0,
+    "yaw": 2.0,
+    "roll": 4.0
+  },
+  "approx_landmarks": {
+    "left_eye_outer": {
+      "x": 406.5,
+      "y": 510.3
+    },
+    "left_eye_inner": {
+      "x": 488.7,
+      "y": 510.3
+    },
+    "right_eye_inner": {
+      "x": 598.3,
+      "y": 510.3
+    },
+    "right_eye_outer": {
+      "x": 680.5,
+      "y": 510.3
+    },
+    "left_eyebrow": {
+      "x": 447.6,
+      "y": 444.1
+    },
+    "right_eyebrow": {
+      "x": 639.4,
+      "y": 444.1
+    },
+    "nose_bridge": {
+      "x": 543.5,
+      "y": 551.6
+    },
+    "nose_tip": {
+      "x": 543.5,
+      "y": 675.7
+    },
+    "left_nostril": {
+      "x": 516.1,
+      "y": 692.2
+    },
+    "right_nostril": {
+      "x": 570.9,
+      "y": 692.2
+    },
+    "mouth_left": {
+      "x": 461.3,
+      "y": 799.7
+    },
+    "mouth_right": {
+      "x": 625.7,
+      "y": 799.7
+    },
+    "mouth_top": {
+      "x": 543.5,
+      "y": 774.9
+    },
+    "mouth_bottom": {
+      "x": 543.5,
+      "y": 832.8
+    },
+    "chin": {
+      "x": 543.5,
+      "y": 956.8
+    },
+    "jaw_left": {
+      "x": 351.7,
+      "y": 890.7
+    },
+    "jaw_right": {
+      "x": 735.3,
+      "y": 890.7
+    }
+  },
+  "generated_variants": {
+    "bbox": "images/annotated/bbox/person_04_woman_middle_bbox.png",
+    "landmarks": "images/annotated/landmarks/person_04_woman_middle_landmarks.png",
+    "pose": "images/annotated/pose/person_04_woman_middle_pose.png",
+    "grayscale": "images/processed/grayscale/person_04_woman_middle_gray.png",
+    "rotated": "images/processed/rotated/person_04_woman_middle_rotated.png",
+    "reflected": "images/processed/reflected/person_04_woman_middle_reflected.png",
+    "grid": "images/processed/grids/person_04_woman_middle_grid.png"
+  }
+}

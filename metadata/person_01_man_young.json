@@ -1,0 +1,94 @@
+{
+  "file_name": "person_01_man_young",
+  "raw_image": "images/raw/person_01_man_young.png",
+  "bbox_xyxy": {
+    "x1": 258,
+    "y1": 196,
+    "x2": 886,
+    "y2": 981
+  },
+  "pitch_yaw_roll_degrees": {
+    "pitch": -4.0,
+    "yaw": 8.0,
+    "roll": -2.0
+  },
+  "approx_landmarks": {
+    "left_eye_outer": {
+      "x": 446.4,
+      "y": 494.3
+    },
+    "left_eye_inner": {
+      "x": 521.8,
+      "y": 494.3
+    },
+    "right_eye_inner": {
+      "x": 622.2,
+      "y": 494.3
+    },
+    "right_eye_outer": {
+      "x": 697.6,
+      "y": 494.3
+    },
+    "left_eyebrow": {
+      "x": 484.1,
+      "y": 431.5
+    },
+    "right_eyebrow": {
+      "x": 659.9,
+      "y": 431.5
+    },
+    "nose_bridge": {
+      "x": 572.0,
+      "y": 533.5
+    },
+    "nose_tip": {
+      "x": 572.0,
+      "y": 651.3
+    },
+    "left_nostril": {
+      "x": 546.9,
+      "y": 667.0
+    },
+    "right_nostril": {
+      "x": 597.1,
+      "y": 667.0
+    },
+    "mouth_left": {
+      "x": 496.6,
+      "y": 769.0
+    },
+    "mouth_right": {
+      "x": 647.4,
+      "y": 769.0
+    },
+    "mouth_top": {
+      "x": 572.0,
+      "y": 745.5
+    },
+    "mouth_bottom": {
+      "x": 572.0,
+      "y": 800.5
+    },
+    "chin": {
+      "x": 572.0,
+      "y": 918.2
+    },
+    "jaw_left": {
+      "x": 396.2,
+      "y": 855.4
+    },
+    "jaw_right": {
+      "x": 747.8,
+      "y": 855.4
+    }
+  },
+  "generated_variants": {
+    "bbox": "images/annotated/bbox/person_01_man_young_bbox.png",
+    "landmarks": "images/annotated/landmarks/person_01_man_young_landmarks.png",
+    "pose": "images/annotated/pose/person_01_man_young_pose.png",
+    "grayscale": "images/processed/grayscale/person_01_man_young_gray.png",
+    "rotated": "images/processed/rotated/person_01_man_young_rotated.png",
+    "reflected": "images/processed/reflected/person_01_man_young_reflected.png",
+    "grid": "images/processed/grids/person_01_man_young_grid.png"
+  }
+}
